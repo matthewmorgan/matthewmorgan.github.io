@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "e65ab7cdae7312553bc5",
-    "url": "/static/css/main.24aca6e1.chunk.css"
+    "revision": "8fb541203064d75335bb",
+    "url": "/static/css/main.fda387c7.chunk.css"
   },
   {
-    "revision": "e65ab7cdae7312553bc5",
-    "url": "/static/js/main.e65ab7cd.chunk.js"
+    "revision": "8fb541203064d75335bb",
+    "url": "/static/js/main.8fb54120.chunk.js"
   },
   {
-    "revision": "ee71597e25b4339075da",
-    "url": "/static/js/1.ee71597e.chunk.js"
+    "revision": "43414ac8e101d808ecfc",
+    "url": "/static/js/1.43414ac8.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -18,6 +18,14 @@ self.__precacheManifest = [
   {
     "revision": "906e22267556451585dc867d42c6dd29",
     "url": "/static/media/understanding.906e2226.png"
+  },
+  {
+    "revision": "a6a1621a20ca9f6a822b7050bc14e3a6",
+    "url": "/static/media/semjs.a6a1621a.png"
+  },
+  {
+    "revision": "dc225f7436a37b1f433f21708c17c684",
+    "url": "/static/media/exercism.dc225f74.png"
   },
   {
     "revision": "59aafe7b41817574d70d9d4a4058a52c",
@@ -44,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/morganandyork.a4c1368e.png"
   },
   {
-    "revision": "cd15637e3895de0aebb16c6fe30b4c1c",
+    "revision": "ff6eaea01106cbfca7ed0363caf5b72a",
     "url": "/index.html"
   }
 ];
