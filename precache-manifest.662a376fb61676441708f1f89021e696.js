@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "48c97099be9dffe9799c",
-    "url": "/static/css/main.24aca6e1.chunk.css"
+    "revision": "fadf2ff22db0d0ddbbd0",
+    "url": "/static/css/main.a1664c6e.chunk.css"
   },
   {
-    "revision": "48c97099be9dffe9799c",
-    "url": "/static/js/main.48c97099.chunk.js"
+    "revision": "fadf2ff22db0d0ddbbd0",
+    "url": "/static/js/main.fadf2ff2.chunk.js"
   },
   {
-    "revision": "f01e1cbd528f7d67c63f",
-    "url": "/static/js/1.f01e1cbd.chunk.js"
+    "revision": "edbd7856a4fa5bb979aa",
+    "url": "/static/js/1.edbd7856.chunk.js"
   },
   {
     "revision": "229c360febb4351a89df",
@@ -52,7 +52,7 @@ self.__precacheManifest = [
     "url": "/static/media/morganandyork.a4c1368e.png"
   },
   {
-    "revision": "c89c9843bfa77a0edeb5d16a2e2793e3",
+    "revision": "a4a612c7f76cfbc7f9a925ad2b217b1d",
     "url": "/index.html"
   }
 ];
