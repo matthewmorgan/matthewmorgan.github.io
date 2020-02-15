@@ -1,9 +1,9 @@
 {
-  "main.css": "/static/css/main.2a526919.chunk.css",
-  "main.js": "/static/js/main.a635d260.chunk.js",
-  "main.js.map": "/static/js/main.a635d260.chunk.js.map",
-  "static/js/1.9c8d78f0.chunk.js": "/static/js/1.9c8d78f0.chunk.js",
-  "static/js/1.9c8d78f0.chunk.js.map": "/static/js/1.9c8d78f0.chunk.js.map",
+  "main.css": "/static/css/main.562c408c.chunk.css",
+  "main.js": "/static/js/main.6cff51d9.chunk.js",
+  "main.js.map": "/static/js/main.6cff51d9.chunk.js.map",
+  "static/js/1.eb5bb565.chunk.js": "/static/js/1.eb5bb565.chunk.js",
+  "static/js/1.eb5bb565.chunk.js.map": "/static/js/1.eb5bb565.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/understanding.png": "/static/media/understanding.906e2226.png",
@@ -14,9 +14,10 @@
   "static/media/buzzonline.png": "/static/media/buzzonline.1b51e615.png",
   "static/media/elephantears.png": "/static/media/elephantears.02c826c3.png",
   "static/media/honeycreekschool.png": "/static/media/honeycreekschool.e3157250.png",
+  "static/media/khanacademy.png": "/static/media/khanacademy.ca843da2.png",
   "static/media/morganandyork.png": "/static/media/morganandyork.a4c1368e.png",
-  "static/css/main.2a526919.chunk.css.map": "/static/css/main.2a526919.chunk.css.map",
+  "static/css/main.562c408c.chunk.css.map": "/static/css/main.562c408c.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.f04d9a44ecd18f31e14871b80a4c71ac.js": "/precache-manifest.f04d9a44ecd18f31e14871b80a4c71ac.js",
+  "precache-manifest.a5631d0a59a735d12e647c628f1543cd.js": "/precache-manifest.a5631d0a59a735d12e647c628f1543cd.js",
   "service-worker.js": "/service-worker.js"
 }
