@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/static/media/morganandyork.1aca9701.webp"
   },
   {
-    "revision": "b0785236e25e40e5ec1ccf9fa7518cf4",
+    "revision": "e6186bdc7acd8264b0d336955a64d168",
     "url": "/index.html"
   }
 ];
