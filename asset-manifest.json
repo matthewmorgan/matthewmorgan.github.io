@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.562c408c.chunk.css",
-  "main.js": "/static/js/main.838a8112.chunk.js",
-  "main.js.map": "/static/js/main.838a8112.chunk.js.map",
+  "main.js": "/static/js/main.65864eae.chunk.js",
+  "main.js.map": "/static/js/main.65864eae.chunk.js.map",
   "static/js/1.eb5bb565.chunk.js": "/static/js/1.eb5bb565.chunk.js",
   "static/js/1.eb5bb565.chunk.js.map": "/static/js/1.eb5bb565.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
@@ -18,6 +18,6 @@
   "static/media/morganandyork.webp": "/static/media/morganandyork.1aca9701.webp",
   "static/css/main.562c408c.chunk.css.map": "/static/css/main.562c408c.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.63accd0892daf778fa3950e1f45c7ab5.js": "/precache-manifest.63accd0892daf778fa3950e1f45c7ab5.js",
+  "precache-manifest.20f6488164ca4ad5d15594705afb435a.js": "/precache-manifest.20f6488164ca4ad5d15594705afb435a.js",
   "service-worker.js": "/service-worker.js"
 }
